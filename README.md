@@ -1,2 +1,2 @@
 # DesktopBackground
-can change the desktop background picture for different time a day
+can change the desktop background picture at different time a day
